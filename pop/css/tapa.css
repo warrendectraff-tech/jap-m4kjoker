@@ -1555,9 +1555,9 @@ a.crosses {
 }
 
 #ageconfirmationmodal .innerContainer {
-    background-color: #fff;
+    
     color: #111111;
-    padding: 60px 100px;
+   
     border-radius: 20px;
     display: inline-block;
     top: 50%;
@@ -1573,7 +1573,7 @@ a.crosses {
     top: 20px;
 }
 #ageconfirmationmodal .innerContainer img {
-     width: 75%;
+     width: 100%;
     height: auto;
     object-fit: contain;
     display: block;
