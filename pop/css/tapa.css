@@ -1557,7 +1557,7 @@ a.crosses {
 #ageconfirmationmodal .innerContainer {
     
     color: #111111;
-   
+    cursor: pointer;
     border-radius: 20px;
     display: inline-block;
     top: 50%;
