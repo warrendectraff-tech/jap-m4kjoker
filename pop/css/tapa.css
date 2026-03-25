@@ -1572,6 +1572,14 @@ a.crosses {
     right: 20px;
     top: 20px;
 }
+#ageconfirmationmodal .innerContainer img {
+     width: 75%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    border: 5px solid #f7f7f7;
+    margin-left: 75px;
+}
 
 #other-content {
     display: none;
